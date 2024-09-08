@@ -7,7 +7,7 @@
 
 The guide I've written here is intended for users who, like me, want to go further with their TrueNAS server.
 
-I wrote this guide because I was really fed up with the TrueNAS founders taking their users for fools and forbidding them to use their OS to the full. Unimaginable but true, the IXSystem team forbids you to do certain things on your TrueNAS Scale under the stupid pretext of “not breaking your server”, except that if you're here it's because you wanted to go beyond the limits imposed by TrueNAS just like I did to see how to remove all the stupid limitations of TrueNAS Scale and perosnalize it to your own desires.
+I wrote this guide because I was really fed up with the TrueNAS founders taking their users for fools and forbidding them to use their OS to the full and also the TrueNAS community is sometimes as stupid as the TrueNAS founders and they'll always tell you on their forum “You mustn't touch the TrueNAS configuration and you have to go through the dashboard to make changes”, but then, these people like to be locked up in a prison and not let them do what they want and that's why if you're there it's not to listen to them. Unimaginable but true, the IXSystem team forbids you to do certain things on your TrueNAS Scale under the stupid pretext of “not breaking your server”, except that if you're here it's because you wanted to go beyond the limits imposed by TrueNAS just like I did to see how to remove all the stupid limitations of TrueNAS Scale and personalize it to your own desires.
 
 Just like the bullshit that Team TrueNAS can post about the risk of breaking your NAS, I'm going to show you here in this guide only things tested by me that have indeed allowed me to know what can break your NAS or not and that are “safe” to use.
 
